@@ -1,0 +1,21 @@
+.b{
+    width: 90%;
+    height: 60%;
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.w{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    font-style: italic;
+    text-align: center;
+    
+}
+.c{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
